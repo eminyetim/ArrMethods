@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\bin\Debug\net6.0\ArrMethods.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\bin\Debug\net6.0\ArrMethods.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\bin\Debug\net6.0\ArrMethods.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\bin\Debug\net6.0\ArrMethods.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\bin\Debug\net6.0\ArrMethods.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\refint\ArrMethods.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ArrMethods.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\ArrMethods\obj\Debug\net6.0\ref\ArrMethods.dll
